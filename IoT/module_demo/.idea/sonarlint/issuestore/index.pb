@@ -1,0 +1,49 @@
+
+P
+ qt_display/ggong2_hw/__init__.py,e\1\e193415f52b06235fb920417fbd8e2e038ee12c2
+U
+%qt_display/ggong2_signals/__init__.py,e\9\e972d23b60c20d4d040726c48e4fba7eb99625d8
+Q
+!qt_display/ggong2_ui/camera_ui.py,a\3\a3df61b469cdd9f0c3661af728d57d48d50e3a59
+O
+qt_display/ggong2_ui/main_ui.py,3\7\37cd01bfacb7fc9b19911823dfc82c4dd9b11c64
+Q
+!qt_display/ggong2_ui/member_ui.py,9\5\957969681ff80f0d80daab1dc81177258944be84
+P
+ qt_display/ggong2_hw/qr_recog.py,5\f\5f57906c5ad19534e50ea9bfa8877a9eba6e2339
+U
+%qt_display/ggong2_hw/vote_distance.py,a\a\aa45b89264b9b33d54016525452be44185729249
+^
+.qt_display/ggong2_signals/anonymous_signals.py,f\1\f1b518d65deb31c13b502e2bb454f1c12a0936e8
+[
++qt_display/ggong2_signals/camera_signals.py,c\4\c49d64215987e2b56b3d51790e27feb70c26e619
+W
+'qt_display/ggong2_signals/qr_signals.py,7\e\7e3fa571d572c0d9640f20651d2ade3ab3fd10a1
+]
+-qt_display/ggong2_signals/received_signals.py,9\e\9e958c76d0676ff53e4caa3f242c70ce5a74daad
+_
+/qt_display/ggong2_signals/ultrasonic_signals.py,5\c\5c384e867e67932f101639b7a4ce63e9b92a9a4d
+U
+%qt_display/ggong2_telecom/__init__.py,c\6\c6b9b23d965cb7948a071a2ae3a3f3eb61e90126
+W
+'qt_display/ggong2_telecom/ggong_mqtt.py,f\c\fc98cfa492365fd5efe37709f4c986c148a82e65
+K
+qt_display/camera_widget.py,4\0\4082f7a7c47b6a2693282fed5aa03cbb158dbbe3
+K
+qt_display/member_widget.py,6\9\69d6747eb51de1a50476a178f38e755343e05c23
+D
+qt_display/msgDTO.py,f\f\ffa466eb1e1aadd5a0a7cab6d791bb7d38ad1f46
+C
+qt_display/myapp.py,4\6\4613e2ba126e2511a9045e20c3d05e85991f948d
+K
+qt_display/question_data.py,c\8\c860f1a0496826b59b0049af265ab4ffabf90e50
+Q
+!qt_display/question_follow_web.py,c\a\caa5507df2a2b52bcfe050aef8233ce7f92844c2
+E
+qt_display/setdata.py,3\7\372a1cf3ac917dc6da06a02be4ba6fe14e137754
+7
+main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa

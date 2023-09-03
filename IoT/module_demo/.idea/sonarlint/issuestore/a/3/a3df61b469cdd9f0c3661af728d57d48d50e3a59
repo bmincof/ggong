@@ -1,0 +1,6 @@
+
+…python:S101"iRename class "Ui_CameraWidget" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(«Ôûıÿÿÿÿ
+opython:S117"XRename this parameter "CameraWidget" to match the regular expression ^[_a-z][a-z0-9_]*$.(àŸ•é
+bpython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(àŸ•é
+tpython:S117?"XRename this parameter "CameraWidget" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ºàüûÿÿÿÿ
+mpython:S100?"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(¸ºàüûÿÿÿÿ

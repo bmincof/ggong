@@ -1,0 +1,8 @@
+
+npython:S116"RRename this field "pushButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ûâöÿÿÿÿÿ
+kpython:S116%"TRename this field "pushButton_2" to match the regular expression ^[_a-z][_a-z0-9]*$.(´“ö¥
+€python:S101"iRename class "Ui_MemberWidget" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÊÖ˜
+opython:S117"XRename this parameter "MemberWidget" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë‚Êú
+bpython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ë‚Êú
+tpython:S1174"XRename this parameter "MemberWidget" to match the regular expression ^[_a-z][a-z0-9_]*$.(Š‘ÿôùÿÿÿÿ
+mpython:S1004"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(Š‘ÿôùÿÿÿÿ
